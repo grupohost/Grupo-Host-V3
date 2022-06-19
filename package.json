@@ -1,0 +1,21 @@
+{
+  "name": "grupo-host-v3",
+  "version": "1.0.0",
+  "description": "Front-End and Back End for Grupo Host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd back-end && php artisan serve",
+    "front": "cd front-end && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grupohost/Grupo-Host-V3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grupohost/Grupo-Host-V3/issues"
+  },
+  "homepage": "https://github.com/grupohost/Grupo-Host-V3#readme"
+}

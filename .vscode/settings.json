@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "grupo.host",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Grupo Host clone",
+            "database": "host_main2022new",
+            "username": "host_mainx",
+            "password": "UMc*T[;)upq)"
+        }
+    ]
+}
